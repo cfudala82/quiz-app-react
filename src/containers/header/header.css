@@ -18,5 +18,12 @@
 }
 
 .nav-bar {
-  background-color: white; 
+  position: absolute;
+  top: 3%;
+  right: 3%;
+}
+
+.btn {
+  text-align: center;
+  color: red;
 }

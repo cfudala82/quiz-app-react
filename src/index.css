@@ -3,3 +3,9 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+body, html {
+  clear: both;
+  background-color: #39FF14;
+  background-image: url("./images/type.png");
+}

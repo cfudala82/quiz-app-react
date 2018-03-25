@@ -4,8 +4,8 @@ import './quizTitle.css'
 class QuizTitle extends Component {
   render() {
     return (
-      <div class="">
-        <h2 class="quizTitle">Title of Quiz</h2>
+      <div className="">
+        <h2 className="quizTitle">Title of Quiz</h2>
       </div>
     );
   }

@@ -4,8 +4,8 @@ import './teamName.css';
 class TeamName extends Component {
   render() {
     return (
-      <div class="">
-        <h2 class="team-name">Team Name</h2>
+      <div className="">
+        <h2 className="team-name">Team Name</h2>
       </div>
     );
   }
