@@ -1,14 +1,15 @@
 .current-question {
+  background-image: url("/../../images/type.png");
   font-family: Comic Sans MS, Comic Sans, sans-serif;
   font-weight: 500;
-  color: #6E0DD0;
-  background-color: #FFFF00;
+  color: #FFFF00;
+  background-color: #0033FF;
   padding: 1.625rem 0;
   margin-bottom: 0;
   margin: 0 33%;
   border-radius: 1.5rem;
-  border: .25rem solid #6E0DD0;
-  box-shadow: 2px 4px rgba(75,0,130,.3);
+  border: .5rem solid #FFFF00;
+  /* box-shadow: 2px 4px rgba(75,0,130,.3); */
 }
 
 .question {
@@ -33,12 +34,12 @@ ul {
   border-radius: 50%;
   text-align: center;
   margin-top: .187rem;
-  background-color: #6E0DD0;
-  border: .08rem solid #6E0DD0;
+  background-color: #FFFF00;
+  border: .08rem solid #FFFF00;
 }
 
 .icon-letter {
   position: relative;
   bottom: .125rem;
-  color: #FFFF00;
+  color: #0033FF;
 }

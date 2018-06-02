@@ -3,11 +3,11 @@
   font-family: 'Gloria Hallelujah'
     , Comic Sans, sans-serif;
   font-weight: 300;
-  color: white;
-  background-color: #6E0DD0;
+  color: #FFFF00;
+  background-color: #0033FF;
   padding: 1rem 0;
   margin: 1rem 33%;
   border-radius: 1.25rem;
-  border: .25rem solid white;
+  border: .5rem solid #FFFF00;
   box-shadow: 2px 4px rgba(75,0,130,.3);
 }

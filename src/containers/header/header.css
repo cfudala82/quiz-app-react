@@ -3,8 +3,8 @@
   margin: 2% 70% 0 2%;
   height: 8rem;
   border-radius: 50%;
-  border: .5rem solid #d966ff;
-  box-shadow: 2px 4px rgba(75,0,130,.3);
+  border: .5rem solid #FFFF00;
+  /* box-shadow: 2px 4px rgba(75,0,130,.3); */
 }
 
 .crew-logo {
@@ -13,7 +13,7 @@
   font-family: "Brush Script MT", "Arial Black", sans-serif;
   font-weight: 100;
   font-size: 3rem;
-  color: #d966ff;
+  color: #FFFF00;
   text-align: center;
 }
 
@@ -25,5 +25,5 @@
 
 .btn {
   text-align: center;
-  color: red;
+  color: #FFFF00;
 }

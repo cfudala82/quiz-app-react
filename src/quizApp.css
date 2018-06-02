@@ -1,7 +1,7 @@
 body, html {
   clear: both;
   background-color: #39FF14;
-  background-image: url("/img/type.png");
+  /* background-image: url("/img/type.png"); */
 }
 
 .oval {

@@ -8,6 +8,6 @@
   margin: 0 33%;
   margin-top: 2rem;
   border-radius: 1.5rem;
-  border: .25rem solid #FFFF00;
-  box-shadow: 2px 4px rgba(75,0,130,.3);
+  border: .5rem solid #FFFF00;
+  /* box-shadow: 2px 4px rgba(75,0,130,.3); */
 }
