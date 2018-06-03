@@ -1,21 +1,19 @@
 import React, { Component } from 'react';
+import render from 'react-dom';
+import { Router, Link } from '@reach/router';
 import './App.css';
-import Header from './containers/header/header';
-import TeamName from './containers/teamName/teamName';
-import QuizTitle from './containers/quizTitle/quizTitle';
-import CurrentQuestion from './components/currentQuestion/currentQuestion';
-import Timer from './containers/timer/timer'
+import Home from './containers/home/home';
+import User from './containers/user/user';
 
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header />
-        <TeamName />
-        <QuizTitle />
-        <CurrentQuestion />
-        <Timer />
+        <Router>
+          <Home path='/' />
+          <User path='user' />
+        </Router>
       </div>
     );
   }
